@@ -1,0 +1,289 @@
+body{
+	margin: 0;
+padding: 0;
+font-size: 18px;
+color: #4a565e;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+.container{
+	width: 1000px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+.header-section{}
+.logo{
+	width: 25%;
+float: left;
+}
+.logo img{}
+nav{
+	width: 75%;
+float: left;
+}
+nav ul{
+	margin: 0;
+text-align: right;
+}
+nav ul li{
+	list-style: none;
+display: inline-block;
+}
+nav ul li a{
+	text-decoration: none;
+text-transform: uppercase;
+padding: 10px;
+display: block;
+color: #445058;
+	margin-top: 11px;
+}
+nav ul li a:hover{}
+
+.banner-section{
+	background-image: url(../images/f457ed.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.banner{
+	text-align: center;
+padding: 10em;
+}
+.banner h1{
+	font-size: 38px;
+color: #f8f0f0;
+text-transform: uppercase;
+text-shadow: 9px 9px 10px black;
+margin: 0;
+}
+.banner p{
+	color: white;
+font-size: 20px;
+text-transform: capitalize;
+margin: 12px;
+}
+.banner a{
+	text-transform: uppercase;
+background: #69c773;
+text-decoration: none;
+font-weight: 600;
+padding: 10px 13px;
+color: white;
+display: inline-block;
+border-radius: 11px;
+}
+.banner a:hover{}
+
+.service-section{
+	padding: 30px 0;
+}
+.heading{
+	text-align: center;
+margin-bottom: 6em;
+}
+.heading h1{
+	margin: 1.5em;
+text-transform: uppercase;
+}
+.heading p{
+	margin: -35px;
+text-transform: capitalize;
+}
+
+.blog{
+	width: 33.33%;
+float: left;
+padding: 23px;
+text-align: center;
+box-sizing: border-box;
+}
+.blog i{
+	font-size: 3em;
+margin: 0;
+margin-top: -20px;
+}
+.blog h1{
+	margin: 0;
+margin-top: 26px;
+text-transform: uppercase;
+font-size: 21px;
+}
+.blog p{
+	margin: 9px;
+font-size: 18px;
+}
+.relax-section{
+	background-color: #e9e1e1;
+overflow: hidden;
+}
+.relax{
+	    width: 73%;
+    float: right;
+    background-image: url(../images/206ae.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.just-relax{
+	padding: 87px;
+}
+.just-relax h1{
+	margin: 0;
+text-transform: uppercase;
+color: #fcf4f4;
+font-size: 29px;
+line-height: 1.1;
+}
+.just-relax h1 span{
+	color: #2bff2b;
+}
+.just-relax p{
+	    color: #bdd8f6;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.just-relax ul{
+	margin: 0;
+padding: 0;
+}
+.just-relax ul li{
+	list-style: none;
+color: #78b9fe;
+}
+.just-relax ul li i{}
+.just-relax a{
+	background: green;
+color: white;
+text-decoration: none;
+margin-top: 14px;
+display: inline-block;
+padding: 8px 17px;
+border-radius: 10px;
+}
+
+.awesome-section{
+	padding: 30px 0;}
+.client-box{overflow: hidden;}
+.client-pic{
+	width: 35%;
+float: left;
+padding: 10px 39px;
+box-sizing: border-box;
+overflow: hidden;}
+.client-pic img{
+	    width: 300px;
+    height: 276px;
+}
+.comments{
+	width: 65%;float: 
+	left;margin-top: 34px;
+	box-sizing: border-box;
+	background: #efe6e6;
+	padding: 5px;
+}
+.feedback{
+	background-color:
+ #dff2c3;padding: 35px;
+}
+.feedback p{}
+.feedback em{
+	text-transform:
+ uppercase;
+ font-size: ;}
+.green-section{
+	background: green;
+padding: 40px;
+}
+.green{
+	text-align: center;
+color: white;
+}
+.green h1{
+	text-transform: uppercase;
+font-size: 33px;
+text-shadow: 4px 4px 5px #2f2222;
+}
+.green a{
+	background: #39b439;
+padding: 13px 31px;
+display: inline-block;
+font-size: 14px;
+text-decoration: none;
+color: white;
+text-transform: uppercase;
+border-radius: 16px;
+}
+.white-section{}
+.list{
+	margin: 37px;
+display: block;
+}
+.list ul{
+	margin: 0;
+text-align: center;
+}
+.list ul li{
+	list-style: none;
+display: inline-block;
+padding: 0 35px;
+}
+
+.footer-section{
+	background: black;
+}
+.footer{}
+.footer-part{
+	width: 33.33%;
+float: left;
+margin: 0;
+box-sizing: border-box;
+padding: 18px;
+text-align: center;
+}
+.footer-part h4{
+	color: #f6ebeb;
+text-align: center;
+text-transform: uppercase;
+text-shadow: 3px 4px 5px black;
+}
+.footer-part ul{
+	margin: 45px;
+padding: 7px;
+}
+.footer-part ul li{
+	list-style: none;
+}
+.footer-part ul li p{}
+.copyright-section{
+	padding: 1px;
+background: #ede6e6;
+}
+.copyright{
+	width: 35%;
+float: left;
+text-align: center;
+}
+.copyright p{}
+.social-icon{
+	overflow: hidden;
+width: 65%;
+margin: 18px;
+text-align: center;
+}
+.social-icon ul{
+	margin: 0;
+padding: 0;
+}
+.social-icon ul li{
+	list-style: none;
+display: inline-block;
+}
+.social-icon ul li a{
+	padding: 9px;
+color: #48545c;
+}
+.social-icon ul li a i{}
+
+
